@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/league95/AndroidStudioProjects/TwitterApp/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/league95/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/2a8f1b4d48b818a4ee5fbde6bae451da/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

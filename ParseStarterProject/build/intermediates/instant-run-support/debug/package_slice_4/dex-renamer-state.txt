@@ -1,0 +1,4 @@
+#Sat Dec 23 02:23:49 EST 2017
+base.0=/home/league95/AndroidStudioProjects/TwitterApp/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

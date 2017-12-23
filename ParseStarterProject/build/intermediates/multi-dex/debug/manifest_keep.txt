@@ -1,0 +1,3 @@
+# Referenced at /home/league95/AndroidStudioProjects/TwitterApp/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:38
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+

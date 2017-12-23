@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/league95/AndroidStudioProjects/TwitterApp/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/league95/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/4bd762e03542e1afb5259c76aad0d71f/res/values-v19/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "230",
+                        "endColumns": "76",
+                        "endOffsets": "302"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}
